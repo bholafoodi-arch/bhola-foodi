@@ -1,0 +1,6 @@
+{
+  "name": "Bhola Online",
+  "description": "The premier food delivery e-commerce platform for Bhola, Bangladesh, featuring local restaurants, fast food, traditional sweets, homemade meals, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
